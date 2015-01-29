@@ -31,3 +31,12 @@
 .site-footer{
 	border-top: 2px solid #468966;
 }
+
+
+
+a.page-link{
+	color: #468966;
+}
+a.page-link:hover{
+	color: darken(#468966, 15%);
+}

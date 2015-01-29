@@ -6,7 +6,7 @@ date:   2015-01-27 18:18:49
 
 
 
-## A blog by a dog, for dogs. 
+## A blog by a pet, for pets. 
 
 Fellow pups, pooches, mutt, mongrel and canines: Welcome to Sparky Speaks. Sparky here, and I would like to get this bloggin started on a hilarious note, with my friend excited to get a kitty friend. 
 
