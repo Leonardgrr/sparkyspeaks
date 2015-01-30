@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "My paws need mannies and peddies"
+date:   2015-01-30 15:18:49
+---
+ 
+
+
+##Caring for your dog's nails
+
+Your dog’s nails may be one of those features you don’t pay much attention to but in reality they require regular maintenance and care. Many owners shy away from the practice of nail clipping because their dogs are not fond of having their feet handled. In this article you’ll learn all about nail care and how to take the stress out of the process for both you and your dog!
+
+
+>The best way to take the trauma out of trimming is to start getting your dog used to the practice when he is a puppy.
+
+Keeping your dog’s nails trimmed short is necessary for many reasons. Overgrown nails can cause discomfort and make walking difficult. They can even start to curl over and grow into the pads of the foot, causing infections and requiring surgery. Untrimmed nails cause scratches on floors and, worse, on people. It is not unheard of in this day and age for a person to be taken to court because their dog scratched someone and left a mark.
+
+1. when he is relaxed start handling his feet gently. Massage his toes and pads. 
+2. Soon bring out a pair of clipppers or a grinder and brig it near his feet. Continue Petting and massage.
+3. Enlist the help of a friend and a bag of yummy treats. Have them gently hold your pet’s paw as he lies on his side. Do not restrain him – often holding an animal tightly causes way more struggling and trauma than no restraint at all!. They can feed your pet yummy treats as you cut off JUST the tip of the nail to avoid the “quick” (the center of the nail). If you accidentally hit the “quick” you will know because the nail will start bleeding. Do not panic. Apply pressure and have a styptic pen ready. This is not a serious injury.
+
+<img src="{{ site.baseurl }}/assests/nail.jpg" alt="dogs hanging out banner">
+
+###How to use a grinder:
+
+1. Hold your dog's toes apart gently. Make sure you arent't squeezing them. 
+2. Turn the grinder on the low setting and move the sanding head around the tip of the nail, grinding it down to a smooth surface. Make sure to hold down any fur that could catch in the grinder. Be aware of the “quick” and turn off the grinder before you reach that point.
+
+### How often do I need to Clip?
+
+Some dogs’ nails are filed down naturally – especially those who take long walks on city sidewalks. However, a good deal of this has to do with the physiology of the dog. Check your dog’s nails on a regular basis. On most canines manicures should take place every 3-4 weeks.
+
+
+Sparky
+
+<svg>
+  <use xlink:href="#paw"></use>
+</svg>
