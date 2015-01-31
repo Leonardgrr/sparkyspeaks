@@ -5,6 +5,8 @@ permalink: /about/
 ---
 
 
+<img src="{{ site.baseurl }}/assests/joseMunoz.jpg" alt="Sparkys pet salon location">
+
 I’d like to introduce myself. My name is J. Elijah Munoz; I am a co-owner of Sparky’s Pet Salon. I have been working with animals since I was a kid. I grew up on a farm with lots of them. My favorites are goats and dogs. I decided to enter the grooming business after being inspired by my own dog Sparky. The company name and the Logo are a representation of who Sparky is – a loving, happy dog!
 
 ##Who We Are

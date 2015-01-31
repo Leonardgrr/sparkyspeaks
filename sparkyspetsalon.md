@@ -12,7 +12,7 @@ permalink: /sparkyspetsalon/
 
  
 
-<img src="{{ site.baseurl }}/assests/salon.jpg" alt="dogs hanging out banner">
+<img src="{{ site.baseurl }}/assests/salon.jpg" alt="Sparkys pet salon location">
 
 ###Store Hours
 <p>Tuesday - Saturday 8am to 6pm</p>

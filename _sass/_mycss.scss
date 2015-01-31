@@ -1,22 +1,31 @@
 // colors for site 8E2800 B64926 FFB03B FFF0A5 468966
 
+//mixin to handle thumbnail images on site. 
+@mixin thumbnail(){
+	width: 200px;
+	float: right;
+	padding: 10px;
+}
+
+//variable for font style
+$font-stack: 'Amatic SC', curisve;
 
 //Fonts for Title and nav
 
 .site-title,{
 	font-size: 32px;
-	font-family: 'Amatic SC', cursive;
+	font-family: $font-stack;
 	letter-spacing: normal;
 }
 
 .page-link{
 	font-size: 26px;
-	font-family: 'Amatic SC', cursive;
+	font-family: $font-stack;
 }
 
 .post-title{
 	font-size: 42px;
-	font-family: 'Amatic SC', cursive;
+	font-family: $font-stack
 }
 
 //body{
@@ -28,54 +37,55 @@ a.page-link{
 	color: #468966;
 }
 a.page-link:hover{
-	color: darken(#468966, 15%);
+	color: darken(#B64926, 15%);
 }
 
 .site-footer{
-border-top: solid 2px #468966;
+	border-top: solid 2px #B64926;
 }
 
-
-.pad:hover{
-	fill: blue;
-
-}
-
-.two:hover{
-	fill: red;
-}
-
-.three:hover{
-	fill: green;
-}
-
-.four:hover{
-	fill: yellow;
-}
-
-.five:hover{
-	fill: orange;
-}
 
 
 .btn {
-  -webkit-border-radius: 28;
-  -moz-border-radius: 28;
-  border-radius: 28px;
-  font-family: Arial;
-  color: #FFF;
-  font-size: 20px;
-  background: #FFB03B;
-  padding: 10px 20px 10px 20px;
-  text-decoration: none;
+ 	font-family: Arial;
+ 	color: #FFF;
+ 	font-size: 15px;
+ 	background: #FFB03B;
+ 	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+	border: none;
+	cursor: pointer;
+	display: inline-block;
+	text-transform: uppercase;
+	position: relative;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	transition: all 0.3s;
 }
 
 .btn:hover {
-  background: #468966;
+  background: lighten(#B64926, 10%);
   text-decoration: none;
 }
 
+//Centers button
+.btn{
+	display: block;
+	margin: auto;
+	width: 170px;
+}
 
 .salon{
 	padding: 1em 2em;
 }
+
+
+//image edits
+img[src*="joseMunoz"]{
+	@include thumbnail;
+}
+
+img[src*="nail"]{
+	@include thumbnail;
+}
+
